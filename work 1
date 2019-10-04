@@ -1,0 +1,66 @@
+# formation-index-
+# ncs workshop index creation 
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>KAST_TECH</title>
+	</head>
+        
+    <body>
+    <H4 align="center">JINGA LALA HUHU</H4>
+    <H1 align="center">JINGA LALA HUHU</H1>
+    <H2 align="left">JINGA LALA HUHU</H2>
+    <H3 align="right">JINGA LALA HUHU</H3>
+    <p align="center">
+         <b>i'm dying inside <br> 
+    	 <i>i hate this place <br></i></b>
+    	 <u>i hate this college <br></u>
+    	    i hate the crowd <br>
+    	    fuckin kill me already<br> 
+    
+    </p>
+    <H1 align="center">
+    <a href="https://www.google.com" target="_blank">google</a> </H1> <br>
+
+
+    <center>
+    	<img height="50%" width="50%" alt="f you" src="yoyo.jpg" >
+    </center>
+    <h> ordered list</h>
+    <p>
+    <ol>
+    	<li> siddarth sir</li>
+    	<li> mansi maam </li>
+    	<li> rajat sir</li>
+    	<li> prakhar sir</li>
+    	<li> rahul sir</li>
+    	<li> vivek sir</li>
+    	<li> ayush sir</li>
+    	<li> zaid sir</li>
+    	<li> prajwal sir</li>
+    </ol>
+
+    <table width="200" border="5">
+    	<thead>
+    		<tr>
+    			<th>sr no</th>
+    			<th> name </th>
+    		</tr>
+    		<tr>
+    			<th>1</th>
+    			<th>deus ex</th>
+
+    		</tr>
+    	</thead>
+    </table>
+    
+
+
+    <DIV>
+    	<img height="50%" width="50%" alt="f you" src="yoyo.jpg" >
+    	<h1> yo yo honey singh</h1>
+    </DIV>
+    </body>
+
+</html>
