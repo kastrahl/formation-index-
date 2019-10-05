@@ -2,12 +2,12 @@
 # ncs workshop index creation 
 <!DOCTYPE html>
 <html>
-#forming a header
+<!forming a header>
 	<head>
 		<meta charset="utf-8">
 		<title>KAST_TECH</title>
 	</head>
- #body starts here  
+ <!body starts here > 
         <body>
                 <H4 align="center">JINGA LALA HUHU</H4>
                 <H1 align="center">JINGA LALA HUHU</H1>
@@ -15,7 +15,7 @@
                 <H3 align="right">JINGA LALA HUHU</H3>
      
      
-  #paragraphs starts here
+  <!paragraphs starts here>
           <p align="center">
                      <b>i'm dying inside <br> 
     	             <i>i hate this place <br></i></b>
@@ -26,7 +26,7 @@
           </p>
     <H1 align="center">
    
-   #here is insertion of activity or a link 
+   <!here is insertion of activity or a link >
    <a href="https://www.google.com" target="_blank"> go to google </a> </H1> <br>
 
 
@@ -38,7 +38,7 @@
                <h> ordered list</h>
                <p>
 	  
-#this is an ordered list 
+<!this is an ordered list >
               <ol>
               	<li> siddarth sir</li>
                	<li> mansi maam </li>
@@ -50,7 +50,7 @@
          	<li> zaid sir</li>
     	        <li> prajwal sir</li>
                </ol>
- # intro to tables 
+ <! intro to tables >
     <table width="200" border="5">
     	<thead>
     		<tr>
@@ -65,7 +65,7 @@
     	</thead>
     </table>
     
-#intro to divisions and changes on intro tags is used in all tags 
+<!intro to divisions and changes on intro tags is used in all tags >
 
     <DIV>
     	<img height="50%" width="50%" alt="f you" src="yoyo.jpg" >
